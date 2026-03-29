@@ -1,4 +1,3 @@
-JavaScript Review Project by Kent P. Mayorga
-
+JavaScript Review Project by Peter John G. Beunavista
 Updating from github
 
